@@ -9,5 +9,6 @@
 <h3>The evaluated result for White Blood Cell (WBC) segmentation are given below: </h3>
 
 ![resust bar chart](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/624cce88-22f4-4ce1-9acb-37df1af85801)
-![F1 (1)](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/6b3ad75c-0929-4509-af63-1625d3058bf6)
+![resust bar chart](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/fac10a35-752a-4c0f-874e-875bb3cc2530)
+
 ![F1 (1)](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/fa2a6999-7d10-405b-ba3a-42f48141ba23)
