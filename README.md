@@ -10,3 +10,12 @@
 
 ![resust bar chart](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/bcb3ce6a-266b-4991-baea-e76c9749dc1b)
 ![F1 (1)](https://github.com/Anupoma/Efficient-Segmentation-Technique-of-Acute-Lymphoblastic-Leukemia/assets/89961533/31b099ca-170e-465b-a0ba-6055c39a0062)
+<h2>Reference:</h2>
+<li>
+  <ol>F. S. Ruggero Donida Labati, Vincenzo Piuri and D. of Computer
+Science Universita degli Studi di Milano, “ALL-IDB image processing `
+dataset.” https://scotti.di.unimi.it/all/#datasets. Last Accessed: July 12,
+2023.</ol>
+</li>
+<hr>
+<small>Currently we work on classification of ALL cancer. Where we are using Deep Learning models and our resultant segmentation method.</small>
